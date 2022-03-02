@@ -1,7 +1,7 @@
 /*For each order show the SalesOrderID and SubTotal calculated three ways:
 A) From the SalesOrderHeader
 B) Sum of OrderQty*UnitPrice*/
-USE AdventureWorks2014
+USE AdventureWorks2014;
 SELECT
 	soh.SalesOrderID,
 	soh.SubTotal,

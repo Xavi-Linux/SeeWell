@@ -1,5 +1,5 @@
 /*Show the CompanyName for all customers with an address in City 'Dallas'.*/
-USE AdventureWorks2014
+USE AdventureWorks2014;
 SELECT s.Name
 FROM Sales.Store AS s
 WHERE s.BusinessEntityID IN (

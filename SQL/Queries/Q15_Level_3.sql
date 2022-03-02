@@ -37,7 +37,7 @@ WHERE soh.BillToAddressID = a.AddressID
 		) 
 GROUP BY
 	a.City,
-	pc.Name
+	pc.Name;
 
 
 

@@ -1,5 +1,5 @@
 /*How many products in ProductCategory 'Cranksets' have been sold to an address in 'London'?*/
-USE AdventureWorks2014
+USE AdventureWorks2014;
 SELECT
 	SUM(sod.OrderQty) AS 'TotalSales'
 FROM 
@@ -15,5 +15,5 @@ WHERE psc.ProductSubcategoryID = p.ProductSubcategoryID
 				   Sales.SalesOrderHeader AS soh
 			  WHERE a.AddressID = soh.ShipToAddressID
 				and a.City = 'London'
-			 )
+			 );
 

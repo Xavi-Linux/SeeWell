@@ -7,7 +7,7 @@
 10000-
 Assuming all totals are in dollars
 */
-USE AdventureWorks2014
+USE AdventureWorks2014;
 SELECT
 	t.Range,
 	FORMAT(

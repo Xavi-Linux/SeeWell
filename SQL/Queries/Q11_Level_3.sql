@@ -1,7 +1,7 @@
 /*For every customer with a 'Main Office' in Dallas show AddressLine1 of the 'Main Office'
  and AddressLine1 of the 'Shipping' address - if there is no shipping address leave it blank.
   Use one row per customer.*/
-USE AdventureWorks2014
+USE AdventureWorks2014;
 SELECT
 	tmain.CustomerID,
 	tmain.AddressLine1 AS 'Main Office',
@@ -41,4 +41,4 @@ LEFT JOIN
 	  and a.AddressID = bea.AddressID
 	  and adt.Name = 'Shipping'
 	) AS tship
-ON tmain.CustomerID = tship.CustomerID
+ON tmain.CustomerID = tship.CustomerID;
