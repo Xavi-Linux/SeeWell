@@ -10,3 +10,7 @@
 2. SQL Server
 3. SQL Server Management Studio
 4. [AdventureWorks2014](https://docs.microsoft.com/en-gb/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms) sample database
+
+## DB diagram
+
+![Diagram](img/adventureworks2008_schema.gif)
