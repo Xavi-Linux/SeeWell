@@ -23,7 +23,7 @@ List of exercises by folder:
 ### SQL Folder
 
 |Num|Question|Query|Outcome|
-|:-:|:------:|:---:|:-----:|
+|:-:|-------:|:---:|:-----:|
 |1|Show the first name and the email address of customer with CompanyName 'Bike World'|[see](SQL/Queries/Q1_Level_1.sql)|[see](SQL/Outcomes/Q1_Level_1.csv)|
 |2|Show the CompanyName for all customers with an address in City 'Dallas'|[see](SQL/Queries/Q2_Level_1.sql)|[see](SQL/Outcomes/Q2_Level_1.csv)|
 |3|How many items with ListPrice more than $1000 have been sold?|[see](SQL/Queries/Q3_Level_1.sql)|[see](SQL/Outcomes/Q3_Level_1.csv)|
@@ -37,6 +37,5 @@ List of exercises by folder:
 |11|For every customer with a 'Main Office' in Dallas show AddressLine1 of the 'Main Office' and AddressLine1 of the 'Shipping' address - if there is no shipping address leave it blank. Use one row per customer.|[see](SQL/Queries/Q11_Level_3.sql)|[see](SQL/Outcomes/Q11_Level_3.csv)|
 |12|For each order show the SalesOrderID and SubTotal calculated three ways: A) From the SalesOrderHeader B) Sum of OrderQty*UnitPrice|[see](SQL/Queries/Q12_Level_3.sql)|[see](SQL/Outcomes/Q12_Level_3.csv)|
 |13|Show the best selling item by value. Assuming all totals are in dollars|[see](SQL/Queries/Q13_Level_3.sql)|[see](SQL/Outcomes/Q13_Level_3.csv)|
-|14|Show how many orders are in the following ranges (in $): 0-99, 100- 999, 1000-9999 10000-
-Assuming all totals are in dollars|[see](SQL/Queries/Q14_Level_3.sql)|[see](SQL/Outcomes/Q14_Level_3.csv)|
+|14|Show how many orders are in the following ranges (in $): 0-99, 100- 999, 1000-9999 10000-.Assuming all totals are in dollars|[see](SQL/Queries/Q14_Level_3.sql)|[see](SQL/Outcomes/Q14_Level_3.csv)|
 |15|Identify the three most important cities. Show the break down of top  level product category against city. Assuming all totals are in dollars|[see](SQL/Queries/Q15_Level_3.sql)|[see](SQL/Outcomes/Q15_Level_3.csv)|
