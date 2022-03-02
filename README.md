@@ -23,7 +23,7 @@ List of exercises by folder:
 ### SQL Folder
 
 |Num|Question|Query|Outcome|
-|:-:|-------:|:---:|:-----:|
+|:-:|:-------|:---:|:-----:|
 |1|Show the first name and the email address of customer with CompanyName 'Bike World'|[see](SQL/Queries/Q1_Level_1.sql)|[see](SQL/Outcomes/Q1_Level_1.csv)|
 |2|Show the CompanyName for all customers with an address in City 'Dallas'|[see](SQL/Queries/Q2_Level_1.sql)|[see](SQL/Outcomes/Q2_Level_1.csv)|
 |3|How many items with ListPrice more than $1000 have been sold?|[see](SQL/Queries/Q3_Level_1.sql)|[see](SQL/Outcomes/Q3_Level_1.csv)|
