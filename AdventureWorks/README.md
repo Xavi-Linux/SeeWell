@@ -2,7 +2,7 @@
 
 ## Summary
 
-I use this repository to exhibit my sql skills.
+This folder contains some solved exercises on the AdventureWorks2014 DB.
 
 ## Tools used
 

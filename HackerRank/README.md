@@ -1,10 +1,14 @@
 # HackerRank
 
-I have solved all the SQL problems at [hackerrank.com](https://www.hackerrank.com/). Hackerrank is an outstanding platform to train technical skills in a Q&A fashion. I would recommend it to anyone wanting to hone their skills.
+## Summary
+
+I have solved all the SQL problems at [hackerrank.com](https://www.hackerrank.com/). Hackerrank is an outstanding platform to train technical skills in a Q&A fashion. I would recommend it to anyone wanting to hone their skills. I have used MS SQL.
 
 My site username is **xavitnow**:
 
 ![Badge](../img/Badge.png)
+
+## Exercises
 
 Find herewith the problem statements and my answers:
 
