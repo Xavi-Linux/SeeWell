@@ -14,9 +14,9 @@ I use this repository to exhibit my sql skills.
 ## Database diagram
 
 ![Diagram](../img/adventureworks2008_schema.gif)
-The diagram portrays the AdventureWorks2008 database, but no major changes have been detected in the 2014 version when carrying out the exercices.
+The diagram portrays the AdventureWorks2008 database, but no major changes have been detected in the 2014 version when carrying out the exercises.
 
-## Exercices
+## Exercises
 
 List of exercises by folder:
 
