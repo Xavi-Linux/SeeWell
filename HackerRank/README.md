@@ -4,7 +4,7 @@ I have solved all the SQL problems at [hackerrank.com](https://www.hackerrank.co
 
 My site username is **xavitnow**:
 
-[Badge](../img/Badge.png)
+![Badge](../img/Badge.png)
 
 Find herewith the problem statements and my answers:
 
